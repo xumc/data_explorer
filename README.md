@@ -8,4 +8,4 @@
 * Relationship between model1 and model2 is unidirectional, just like foreign key in DB.
 
 ## mockups
-![Alt text](mockups/data_explorer.png)
+![Alt text](mockups/main.png)
