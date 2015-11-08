@@ -6,3 +6,6 @@
 
 * we have  two types of model. we called simple model and associative model. In general, simple model represents one table, associative model represents a table, which is bridge between two other tables.
 * Relationship between model1 and model2 is unidirectional, just like foreign key in DB.
+
+## mockups
+![Alt text](mockups/data_explorer.png)
