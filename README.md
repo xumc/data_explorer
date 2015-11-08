@@ -9,3 +9,8 @@
 
 ## mockups
 ![Alt text](mockups/main.png)
+
+## library
+* kity: https://github.com/fex-team/kity
+* react: https://facebook.github.io/react/
+* rails: https://github.com/rails/rails
